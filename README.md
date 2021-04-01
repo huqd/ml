@@ -1,2 +1,2 @@
-# ml
-Stuffs at Foundation of machine learning class by VietAI (ml.vietai.org)
+# Foundation of machine learning
+Foundation of machine learning class by VietAI
