@@ -1,2 +1,2 @@
-# Foundation of machine learning
-Foundation of machine learning class by VietAI
+# Foundations of machine learning
+Foundations of machine learning class by VietAI
